@@ -1,0 +1,6 @@
+{
+  "name": "PulsePath",
+  "description": "Smart real-time pothole reporting, BBMP monitoring dashboard, and AI-assisted emergency ambulance navigation avoiding high-risk zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
